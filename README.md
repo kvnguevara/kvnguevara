@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kvnguevara
 - 👀 Estoy interesado en aprender cada día el magnifico mundo de la programación
 - 🌱 I’m currently learning ...
-- 💞️ Futuro desarrallador de aplicaciones, apacionado por JAVA, y el desarrollo web 
+- 💞️ Futuro Data Engineer
 - 📫 How to reach me ...
 
 <!---
